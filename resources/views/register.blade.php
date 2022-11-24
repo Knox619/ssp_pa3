@@ -20,6 +20,7 @@
                 <select class="input-fields">
                     <option>Male</option>
                     <option>Female</option>
+                    <option>Gay</option>
                     <option>Other</option>
                 </select>
             </div>
