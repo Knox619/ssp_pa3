@@ -14,7 +14,7 @@
                 <input class="input-fields" type="text" placeholder="Enter Name">
             </div>
             <div >
-                <input class="input-fields" type="number" placeholder="Enter Age">
+                <input class="input-fields" type="number" placeholder="Enter MONEY">
             </div>
             <div >
                 <select class="input-fields">
